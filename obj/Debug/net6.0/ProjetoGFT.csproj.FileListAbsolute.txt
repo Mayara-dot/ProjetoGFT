@@ -1,0 +1,15 @@
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ProjetoGFT
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ProjetoGFT.deps.json
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ProjetoGFT.runtimeconfig.json
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ProjetoGFT.dll
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ref/ProjetoGFT.dll
+/home/pi/Documents/ProjetoGFT/bin/Debug/net6.0/ProjetoGFT.pdb
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.csproj.AssemblyReference.cache
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.AssemblyInfoInputs.cache
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.AssemblyInfo.cs
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.csproj.CoreCompileInputs.cache
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.dll
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ref/ProjetoGFT.dll
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.pdb
+/home/pi/Documents/ProjetoGFT/obj/Debug/net6.0/ProjetoGFT.genruntimeconfig.cache
